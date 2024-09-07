@@ -68,7 +68,7 @@ GUILD_ID=
 
 ## Feedback
 
-If you have any feedback, please reach out to us at [Discord Server]()
+If you have any feedback, please reach out to us at [Discord Server](https://discord.gg/XceSbdajVQ)
 
 ## License
 
