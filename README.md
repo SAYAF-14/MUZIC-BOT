@@ -1,4 +1,4 @@
-# Hi, I'm ALSHAMI! ❤
+# Hi, I'm Sayaf Alshami! ❤
 
 I'm a Discord Bot Developer and here is mine Discord Music Bot
 
